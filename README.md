@@ -1,2 +1,3 @@
 # edicaoOng
-Página de edição da ONG
+Página de edição da ONG e perfis fixos
+
